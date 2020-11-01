@@ -1,3 +1,8 @@
+# Links
+위키독스 https://wikidocs.net/
+구름ide https://ide.goorm.io/
+얄팍한 코딩사전 https://www.yalco.kr/yalcodic/
+
 # Welcome!
 
 When I first learned Python nearly 25 years ago, I was immediately
